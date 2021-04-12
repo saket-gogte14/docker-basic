@@ -6,4 +6,4 @@ Step 2: Run docker build from the path where the files are placed "docker build 
 
 Step 3: Run the build "docker run -d -p 8080:8080 [imagename]:[tagname]"
 
-Step 4: Run http://localhost:8080 and check if the service is up
+Step 4: Run http://localhost:8080/hello.html and check if the service is up
