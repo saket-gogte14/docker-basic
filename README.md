@@ -1,4 +1,4 @@
-# docker-learnings
+# docker-learnings - Setup this simple file to setup you container running a html file 
 
 Step 1: Place the files docker and your html code in a Path
 
